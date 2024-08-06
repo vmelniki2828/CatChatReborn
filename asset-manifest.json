@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CatChatReborn/static/css/main.7acaea2f.css",
+    "main.js": "/CatChatReborn/static/js/main.07d3183d.js",
+    "index.html": "/CatChatReborn/index.html",
+    "main.7acaea2f.css.map": "/CatChatReborn/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/CatChatReborn/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
